@@ -85,7 +85,7 @@
           <span>Check my Password?</span>
         </div>
         <div class="form center">
-          <form action="Main.php" method="post">
+          <form action="index.php" method="post">
             <input type="text" name="pass" id="pass"required/>
             <input type="submit" value="Submit" class="btn" />
           </form>
@@ -121,7 +121,7 @@
                   <h3>Customize password</h3>
                   <hr>
               </div>
-              <form id="passwordProp" name="form_A" action="Main.php" method="POST" class="grid">
+              <form id="passwordProp" name="form_A" action="index.php" method="POST" class="grid">
                 <div>
                   <span>Password Length</span>
                   <div>
